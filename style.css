@@ -55,8 +55,7 @@ p.textBody{
     /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
     -webkit-tap-highlight-color: transparent;
     background-color:var(--accentColor);
-    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+
 
   }
   
@@ -92,6 +91,9 @@ p.textBody{
     opacity: 1;
     background-color: var(--accentColor);
         color: #1BD0D9;
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+    
   }
   
 
