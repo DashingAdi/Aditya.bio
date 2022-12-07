@@ -76,6 +76,11 @@ p.textBody{
     transition: opacity 0.3s;
     transform: scale(1.15);
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+    <div class="fa-3x">
+       <i class="fa-github  fa-beat"></i>
+       <i class="fa-twitter  fa-beat"></i>
+       <i class="fa-linkedin fa-beat"></i>
+    </div>
   }
   
   .tooltip .tooltiptext::after {
@@ -95,6 +100,11 @@ p.textBody{
         color: #1BD0D9;
     transform: scale(1.15);
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+    <div class="fa-3x">
+       <i class="fa-github  fa-beat"></i>
+       <i class="fa-twitter  fa-beat"></i>
+       <i class="fa-linkedin fa-beat"></i>
+    </div>
     
   }
   
