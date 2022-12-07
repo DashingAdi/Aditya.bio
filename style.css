@@ -74,6 +74,8 @@ p.textBody{
     margin-left: -75px;
     opacity: 0;
     transition: opacity 0.3s;
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
   }
   
   .tooltip .tooltiptext::after {
